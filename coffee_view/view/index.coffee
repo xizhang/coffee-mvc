@@ -1,8 +1,8 @@
 h2 -> "Purpose"
-p -> "This is a CoffeeScript MVC framework for web applications. It's based on Express.js."
+p -> "This is a CoffeeScript MVC template for web applications. It's based on Express.js."
 h2 ->"Download/Install"
 h3 -> "Get The Code"
-div ".quoted",-> "git clone something"
+div ".quoted",-> "git clone git://github.com/xizhang/coffee-mvc.git"
 h3 -> "Setup Database"
 div -> @partial("partial/db_setup_guide")
 h3 -> "Run"
