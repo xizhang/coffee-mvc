@@ -1,0 +1,47 @@
+.quoted{
+	background:#eef;
+	padding:5px 10px 5px 20px;
+	margin:5px;
+	line-height:20px;
+}
+
+#projects_table{
+	width:99%;
+	border-collapse:collapse;
+}
+
+.table_header{
+	font-weight:bold;
+	background-color:#789;
+	color:#eee;
+}
+
+.cell{
+	padding:5px;
+	border:1px solid #ccc;
+}
+
+.row{
+	background-color: #eee;
+}
+
+.row-alt{
+	background-color: #eef;
+}
+
+.error{
+	color:#f00;
+}
+
+#login_wrapper{
+	height:200px;
+	text-align:center;
+}
+
+#login_table{
+	margin:0px auto 0px auto;
+}
+
+.del_icon{
+	cursor:pointer;
+}
