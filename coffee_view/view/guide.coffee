@@ -104,4 +104,4 @@ ol ->
 	li -> "<a href='http://coffeekup.org/'>CoffeeKup</a>"
 	li -> "Node.js module <a href='https://github.com/felixge/node-mysql'>node-mysql</a>"
 	li -> "Node.js module <a href='https://github.com/Kijewski/node-mysql-pool'>node-mysql-pool</a>"
-	li -> "Inspired by <a href='https://github.com/twilson63/express-coffee.git'>express-coffee</a>"
+	li -> "Inspired by <a href='https://github.com/twilson63/express-coffee'>express-coffee</a>"

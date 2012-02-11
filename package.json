@@ -1,0 +1,16 @@
+{
+    "name": "coffee-mvc"
+  , "version": "1.0.0"
+  , "dependencies": {
+      "coffee-script": "1.1.x"
+    , "express": "2.5.x" 
+    , "coffeekup": "0.x.x"
+    , "mysql": "*"
+    , "mysql-pool": "*"
+    , "async-mini": "*"
+  }
+  , "scripts": {
+    "start": "node server.js"
+  }
+  , "engine": "node ~> 0.6.x"
+}
