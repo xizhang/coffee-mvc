@@ -19,7 +19,7 @@ if @isDbReady
 		div -> "<a href='/login'>Login</a> to modify the table."
 else
 	div ".error",-> "Database is unavailable. Maybe you forgot to setup the config file? Try following steps please."
-	div ->@partial('partial/db_unavailable')
+	div ->@partial('partial/db_setup_guide')
 
 coffeescript ->
 	$ ->

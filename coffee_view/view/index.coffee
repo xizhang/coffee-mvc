@@ -1,5 +1,5 @@
 h2 -> "Download"
-p ".quoted",-> "git clone git://github.com/xizhang/coffee-mvc.git"
+p ".quoted",-> "git clone https://github.com/xizhang/coffee-mvc"
 h2 -> "Setup Database"
 div -> @partial("partial/db_setup_guide")
 h2 -> "Run"
