@@ -1,3 +1,38 @@
+h2 {
+	margin:30px 0px 10px 0px;
+}
+
+h3 {
+	padding-left: 10px;
+}
+
+p{
+	padding-left:15px;
+	color:#135;
+}
+
+.guide_table{
+	border-collapse:collapse;
+	width:90%;
+}
+
+.guide_table tr{
+	vertical-align:top;
+}
+
+.guide_table td{
+	padding-bottom: 10px;
+	padding-top:10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.folder{
+	padding-right: 15px;
+	font-style:italic;
+	color:#333;
+	text-align:right;
+}
+
 .quoted{
 	background:#eef;
 	padding:5px 10px 5px 20px;

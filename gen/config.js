@@ -3,7 +3,8 @@
 exports.DEBUG_LOG: log  debug info when nothing is wrong
 exports.DEBUG_WARN: when there is an abnormality caused by user, e.g. a malicious URL
 exports.DEBUG_ERROR: things should never happen. like a DB error
-exports.DEBUG_CLIENT: print debug info to browser's console
+exports.DEBUG_CLIENT: print debug info to browser's console 
+things prefixed with DB_: database stuff
 */
 
 (function() {
