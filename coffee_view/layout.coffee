@@ -38,4 +38,4 @@ html ->
 		div "#main_wrapper", ->
 			@body
 		div "#footer_wrapper",->
-			div "#footer_title",->"This is a open source project."
+			div "#footer_title",->"This is a open source project. <a href='http://appinmotion.com'>Contact me</a>"

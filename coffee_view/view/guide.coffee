@@ -47,10 +47,10 @@ table ".guide_table",->
 		td ".folder",-> "coffee_server"
 		td -> "For server-side CoffeeScript code."
 	tr ->
-		td ".folder",-> "coffee_client/controller"
+		td ".folder",-> "coffee_server/controller"
 		td -> "Put your controller files here."
 	tr ->
-		td ".folder",-> "coffee_client/model"
+		td ".folder",-> "coffee_server/model"
 		td -> "Put your model files here."
 	tr ->
 		td ".folder",-> "coffee_view"
